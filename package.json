@@ -1,0 +1,31 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "Build a GraphQL Server with Nodejs, Express and GraphQL.",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baesparza/Build-a-GraphQL-Server.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Nodejs",
+    "Express",
+    "Server"
+  ],
+  "author": "baesparza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baesparza/Build-a-GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/baesparza/Build-a-GraphQL-Server#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "nodemon": "^1.11.0"
+  }
+}

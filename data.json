@@ -1,40 +1,40 @@
 {
-    "customers": [
-        {
-            "id": "1",
-            "name": "Bruno Esparza",
-            "email": "bruno.be81@gmail.com",
-            "age": 19
-        },
-        {
-            "id": "2",
-            "name": "Jonathan Rocero",
-            "email": "hippie@gmail.com",
-            "age": 21
-        },
-        {
-            "id": "3",
-            "name": "Emmanuel Auquilla",
-            "email": "emma@email.com",
-            "age": 18
-        },
-        {
-            "id": "4",
-            "name": "Jorge Hurtado",
-            "email": "jorge@gmail.com",
-            "age": 19
-        },
-        {
-            "id": "5",
-            "name": "Luis Ortiz",
-            "email": "luis@gmail.com",
-            "age": 19
-        },
-        {
-            "id": "6",
-            "name": "Eduardo Ojeda",
-            "email": "edu@gmail.com",
-            "age": 19
-        }
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "Bruno Esparza",
+      "email": "bruno.be81@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "2",
+      "name": "Jonathan Rocero",
+      "email": "hippie@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "3",
+      "name": "Emmanuel Auquilla",
+      "email": "emma@email.com",
+      "age": 18
+    },
+    {
+      "id": "4",
+      "name": "Jorge Hurtado",
+      "email": "jorge@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "5",
+      "name": "Luis Ortiz",
+      "email": "luis@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "6",
+      "name": "Eduardo Ojeda",
+      "email": "edu@gmail.com",
+      "age": 19
+    }
+  ]
 }
